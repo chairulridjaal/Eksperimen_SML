@@ -99,5 +99,3 @@ if __name__ == "__main__":
     print("\n[INFO] Sample data X (5 baris pertama):")
     print(X_train.head())
     print("\n[INFO] Preprocessing Selesai.")
-# Trigger action
-# Trigger action 2
